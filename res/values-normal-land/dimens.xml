@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources><!--
+    <dimen name="onboarding_icon_size">120dp</dimen>-->
+    <dimen name="onboarding_top_margin">8dp</dimen>
+    <dimen name="onboarding_bottom_margin">5dp</dimen>
+</resources>
